@@ -1,0 +1,4 @@
+Flask>=2.0
+fhirclient>=4.0.0
+Flask>=2.0
+fhirclient==4.1.0
